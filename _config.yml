@@ -29,16 +29,16 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-   instagram: andra.srithan
+  instagram: andra.srithan
   # keybase: your_username
-   linkedin: srithanandra
+  linkedin: srithanandra
   # mastodon: your_username
-   medium: srithan.andra
+  medium: srithan.andra
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
