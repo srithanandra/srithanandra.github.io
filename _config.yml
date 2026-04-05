@@ -27,7 +27,7 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - srithanandra/srithanandra.github.io
 
 social_media:
   # behance: your_username
